@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🔭 Passionate about learning, experimenting, and achieving results in a flow-state. Focused on automation and data analysis to enhance efficiency and innovation. 
+
+⚡ Fun fact: I'm using ruby 10+ years, do not focus the following chart :)
+  
 <!--
 Here are some ideas to get you started:
 
